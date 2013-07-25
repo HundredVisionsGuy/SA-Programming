@@ -1,0 +1,10 @@
+What do you have to figure out to make a video game
+
+Examples:
+	show score & lives
+	put a background
+	pop up a you lose page (when you lose)
+	make characters & make them move
+	plot
+	bad guy (the "boss")
+	controls (keys (wasd, arrow keys, space bar), mouse, joystick, touch screen, tilt (accelerometer)

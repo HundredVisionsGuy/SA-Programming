@@ -4,6 +4,7 @@
 # import statements
 import random
 from turtle import *
+import time
 
 # Define a function
 def polygon(pen, sides, length):
@@ -31,3 +32,4 @@ for i in range(180):    # repeat the following 180 times
     pen1.down()
     polygon(pen1, 5, 50) # shrunk pentagon in size
     pen1.right(2)
+time.sleep(500)
